@@ -1,5 +1,6 @@
 import pygame
 from threading import Timer
+from sys import exit
 
 
 class Sokoban():
